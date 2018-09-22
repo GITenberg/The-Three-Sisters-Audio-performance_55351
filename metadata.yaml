@@ -1,0 +1,42 @@
+_repo: The-Three-Sisters-Audio-performance_55351
+_version: 0.0.1
+contributor:
+  translators:
+  - &id001
+    agent_name: Rose, Temi
+    gutenberg_agent_id: '46494'
+    url: http://www.gutenberg.org/2009/agents/46494
+  - agent_name: Harper, Elena
+    gutenberg_agent_id: '48397'
+    url: http://www.gutenberg.org/2009/agents/48397
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tschechow, Anton
+    - Tchekhov, Anton
+    - Tchekhoff, Anton
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Chekov, Anton Pavlovich
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55351'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- GITenberg
+title: 'The Three Sisters
+
+  Audio performance'
+url: http://www.gutenberg.org/ebooks/55351

@@ -9,6 +9,9 @@ contributor:
   - agent_name: Harper, Elena
     gutenberg_agent_id: '48397'
     url: http://www.gutenberg.org/2009/agents/48397
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -26,6 +29,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55351#The-Three-Sisters-Audio-performance
 gutenberg_issued: '2017-09-12'
 gutenberg_type: Text
 identifiers:
